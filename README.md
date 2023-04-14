@@ -1,5 +1,6 @@
 # Image Preview V1
 
+[![Netlify Status](https://api.netlify.com/api/v1/badges/7ffb0a44-af70-4735-b943-e0596d3c0e20/deploy-status)](https://app.netlify.com/sites/image-preview-v1/deploys)
 ![rust.yml](https://img.shields.io/github/actions/workflow/status/wiseaidev/image-preview-v1/rust.yml)
 
 A image preview application powered by Yew.

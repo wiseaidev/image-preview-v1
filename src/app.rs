@@ -1,6 +1,5 @@
-use web_sys::{HtmlInputElement};
+use web_sys::HtmlInputElement;
 use yew::prelude::*;
-
 
 #[function_component(App)]
 pub fn app() -> Html {
